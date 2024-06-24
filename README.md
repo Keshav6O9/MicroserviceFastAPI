@@ -1,6 +1,6 @@
 # MicroserviceFastAPI
 
-1. Create a python virtual environment 'python2 -m venv ~/.venv' or 'vitrualenv ~/.venv'
+1. Create a python virtual environment 'python3 -m venv ~/.venv' or 'vitrualenv ~/.venv'
 
 2. source venv i.e start virtual environment anytime open  in cmd type : vim ~/.bashrc and type at last : source ~/.venv/bin/activate
 
